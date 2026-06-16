@@ -4,7 +4,7 @@
 
 📍 New York City, NY  
 📧 marampallymanasa1@gmail.com  
-💼 LinkedIn
+💼 www.linkedin.com/in/manasa-marampally-9108011b7
 
 ---
 
