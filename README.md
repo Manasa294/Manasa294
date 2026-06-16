@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Manasa Marampally
 
-<!--
-**Manasa294/Manasa294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Engineer
 
-Here are some ideas to get you started:
+💡 Building Generative AI, LLM, RAG, and Machine Learning Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 New York, NY
+
+## About Me
+
+- AI/ML Engineer
+- Generative AI & LLM Specialist
+- Healthcare AI Enthusiast
+- Building Agentic AI Systems
+
+## Tech Stack
+
+Python | FastAPI | LangChain | LangGraph
+PyTorch | TensorFlow | AWS | Azure
+Docker | Kubernetes | Pinecone
+
+## Connect With Me
+
+LinkedIn: Your LinkedIn URL
+Email: marampallymanasa1@gmail.com
